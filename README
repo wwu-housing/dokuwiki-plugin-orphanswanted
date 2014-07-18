@@ -1,5 +1,8 @@
 ====== Orphanswanted Plugin for DokuWiki ======
 
+This fork of the original orphanswanted plugin was made to apply several
+patches others had made.
+
 All documentation for the Orphanswanted Plugin is available online at:
 
   * http://dokuwiki.org/plugin:orphanswanted
