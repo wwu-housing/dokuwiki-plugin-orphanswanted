@@ -135,7 +135,7 @@ function orph_Check_InternalLinks( &$data, $base, $file, $type, $lvl, $opts )
 
                           if(DEBUG) echo ' A_LINK' ;
 
-                            $link= strtolower( $link );
+                            $link= utf8_strtolower( $link );
                             orph_handle_link($data, $link);
                 }
                 else
